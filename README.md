@@ -14,11 +14,12 @@ I have experience in personal projects and code challenges. Right now, my develo
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kevinCubas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=stars"/></a>
   <a href="https://github.com/kevinCubas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCubas&layout=compact&langs_count=7&theme=midnight-purple"/>
-   </a>
+   </a>  
 </div>
 
 ## 🚀 Skills
 <div>
+   <img alt="Kevin gif" src="https://cdn.discordapp.com/attachments/986395839897419776/986777975443828746/Kevin-gif.gif" height="150em" align="right"/>  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
