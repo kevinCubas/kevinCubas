@@ -3,9 +3,10 @@
 I'm a Front-end Software Developer (On the journey to becoming a full-stack dev). <br />
 I'm always learning and evolving, and studying is one of my passions.
 
-I have experience in personal projects and code challenges. Right now, my development focus is using Javascript, React & Styled-components. Among other technologies necessary to create a responsive web application. I am constantly adapting to the project.
+I have experience in personal projects and code challenges. Right now, my development focus is using Javascript, React & Styled-components, among other technologies necessary to create a responsive web application. I am constantly adapting to the project.
 
-- 💻 I’m currently learning React, Typescript & Node.
+- 💻 I’m currently learning React, Typescript & Node;
+- ❤️ Passions: art, STEM & nature;
 - ✨ Fun fact: I create original art pieces in acrylic paintings.
 
 ## 🐱‍💻 Github Stats
