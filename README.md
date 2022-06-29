@@ -20,7 +20,9 @@ I have experience in personal projects and code challenges. Right now, my develo
 
 ## 🚀 Skills
 <div>
-  <img alt="Kevin gif" src="https://cdn.discordapp.com/attachments/986395839897419776/986777975443828746/Kevin-gif.gif" height="150em" align="right"/>  
+  <a href="https://github.com/kevinCubas">
+    <img alt="Kevin gif" src="https://cdn.discordapp.com/attachments/986395839897419776/986777975443828746/Kevin-gif.gif" height="150em" align="right"/>  
+  </a>
   <a href="https://github.com/kevinCubas"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="https://github.com/kevinCubas"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" /></a>
   <a href="https://github.com/kevinCubas"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
