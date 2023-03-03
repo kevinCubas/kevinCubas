@@ -1,13 +1,23 @@
 # Hello World, I'm Kevin 👋
 
-I'm a Front-end Software Developer (On the journey to becoming a full-stack dev). <br />
+I'm a Front-end developer with over 2 years of experience implementing and building applications in Bootcamp, personal projects, and solving code challenges.
+
+My technical skills include (but are not limited to): **Javascript, Typescript, React, NextJS, HTML, CSS, styled-components, SCSS, GIT, Figma**... among other technologies to develop a responsive web application.
+Besides my technical knowledge and experience with those technologies, I also ensure to delivery of high-quality, responsive, accessible, and performant code.
+
 I'm always learning and evolving, and studying is one of my passions.
 
-I have experience in personal projects and code challenges. Right now, my development focus is using Javascript, React & Styled-components, among other technologies necessary to create a responsive web application. I am constantly adapting to the project.
+I seek knowledge in several areas, mainly in STEM (Science, Technology, Engineering, and Math).
 
-- 💻 I’m currently learning React, Typescript & Node;
+I'm bilingual:
+Portuguese - Native/fluent;
+English - Advanced (7 years of study and practice).
+
+- 💻 I'm currently specializing in NextJS and Typescript.
 - ❤️ Passions: art, STEM & nature;
 - ✨ Fun fact: I create original art pieces in acrylic paintings.
+
+Feel free to get in touch, and connect.
 
 ## 🐱‍💻 Github Stats
 <div>
