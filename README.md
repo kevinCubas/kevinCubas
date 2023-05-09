@@ -24,8 +24,8 @@ Feel free to get in touch, and connect.
   <a href="https://github.com/kevinCubas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kevinCubas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=stars"/></a>
   <a href="https://github.com/kevinCubas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCubas&layout=compact&langs_count=7&theme=midnight-purple"/>
-   </a>  
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCubas&layout=compact&langs_count=7&theme=midnight-purple" />
+  </a>
 </div>
 
 ## 🚀 Skills
@@ -33,15 +33,16 @@ Feel free to get in touch, and connect.
   <a href="https://github.com/kevinCubas">
     <img alt="Kevin gif" src="https://cdn.discordapp.com/attachments/986395839897419776/986777975443828746/Kevin-gif.gif" height="150em" align="right"/>  
   </a>
-  <a href="https://github.com/kevinCubas"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="https://github.com/kevinCubas"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" /></a>
-  <a href="https://github.com/kevinCubas"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-  <a href="https://github.com/kevinCubas"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></a>
-  <br />
-  <a href="https://github.com/kevinCubas"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-  <a href="https://github.com/kevinCubas"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt=""styled-components /></a>
-  <br />
-  <a href="https://github.com/kevinCubas"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html" 
+       alt"javascript, typescript, react, nextjs, html" /> <br>
+  <img src="https://skillicons.dev/icons?i=css,sass,styledcomponents,tailwind" 
+       alt"css, sass, styled-components, tailwind" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" 
+       alt="git, github, vscode" /> <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" 
+       alt="nodejs, express" /> <br>
+  <img src="https://skillicons.dev/icons?i=figma" 
+       alt="figma" />
 </div>
 
 ## Connect with me
