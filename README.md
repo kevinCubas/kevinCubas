@@ -22,9 +22,9 @@ Feel free to get in touch, and connect.
 ## 🐱‍💻 Github Stats
 <div>
   <a href="https://github.com/kevinCubas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kevinCubas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=stars"/></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kevinCubas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/></a>
   <a href="https://github.com/kevinCubas">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCubas&layout=compact&langs_count=7&theme=midnight-purple" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinCubas&layout=compact&langs_count=7&theme=omni&hide=shell" />
   </a>
 </div>
 
@@ -33,16 +33,26 @@ Feel free to get in touch, and connect.
   <a href="https://github.com/kevinCubas">
     <img alt="Kevin gif" src="https://cdn.discordapp.com/attachments/986395839897419776/986777975443828746/Kevin-gif.gif" height="150em" align="right"/>  
   </a>
+  <a href="https://github.com/kevinCubas">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html" 
        alt"javascript, typescript, react, nextjs, html" /> <br>
-  <img src="https://skillicons.dev/icons?i=css,sass,styledcomponents,tailwind" 
+  </a>
+  <a href="https://github.com/kevinCubas">
+    <img src="https://skillicons.dev/icons?i=css,sass,styledcomponents,tailwind" 
        alt"css, sass, styled-components, tailwind" /> <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" 
+  </a>
+  <a href="https://github.com/kevinCubas">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" 
        alt="git, github, vscode" /> <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" 
+  </a>
+  <a href="https://github.com/kevinCubas">
+    <img src="https://skillicons.dev/icons?i=nodejs,express"
        alt="nodejs, express" /> <br>
-  <img src="https://skillicons.dev/icons?i=figma" 
+  </a>
+  <a href="https://github.com/kevinCubas">
+    <img src="https://skillicons.dev/icons?i=figma" 
        alt="figma" />
+  </a>
 </div>
 
 ## Connect with me
