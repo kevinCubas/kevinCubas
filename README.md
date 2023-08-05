@@ -1,23 +1,20 @@
 # Hello World, I'm Kevin 👋
 
-I'm a Front-end developer with over 2 years of experience implementing and building applications in Bootcamp, personal projects, and solving code challenges.
+A Software Engineer focused on front-end development, with experience creating innovative and high-impact web applications.
 
-My technical skills include (but are not limited to): **Javascript, Typescript, React, NextJS, HTML, CSS, styled-components, SCSS, GIT, Figma**... among other technologies to develop a responsive web application.
-Besides my technical knowledge and experience with those technologies, I also ensure to delivery of high-quality, responsive, accessible, and performant code.
+I'm constantly seeking to evolve and learn, with a passion for studying and understanding how things work. As a computer science enthusiast, I actively contribute to open-source projects.
 
-I'm always learning and evolving, and studying is one of my passions.
-
-I seek knowledge in several areas, mainly in STEM (Science, Technology, Engineering, and Math).
+In addition to my role as a software engineer, I'm involved in copywriting and serve as a moderator in an open-source community/company called Forja. Within the Forja dev community, I focus on contributing to projects, mentoring and empowering developers, as well as participating in the interview and recruitment process for internal projects.
 
 I'm bilingual:
 Portuguese - Native/fluent;
 English - Advanced (7 years of study and practice).
 
 - 💻 I'm currently specializing in NextJS and Typescript.
-- ❤️ Passions: art, STEM & nature;
+- ❤️ Passions: art, STEM, games & nature;
 - ✨ Fun fact: I create original art pieces in acrylic paintings.
 
-Feel free to get in touch, and connect.
+Feel free to reach out to discuss potential opportunities. I'm always looking for innovative and challenging projects where I can apply and enhance my skills.
 
 ## 🐱‍💻 Github Stats
 <div>
@@ -35,11 +32,11 @@ Feel free to get in touch, and connect.
   </a>
   <a href="https://github.com/kevinCubas">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html" 
-       alt"javascript, typescript, react, nextjs, html" /> <br>
+       alt="javascript, typescript, react, nextjs, html" /> <br>
   </a>
   <a href="https://github.com/kevinCubas">
-    <img src="https://skillicons.dev/icons?i=css,sass,styledcomponents,tailwind" 
-       alt"css, sass, styled-components, tailwind" /> <br>
+    <img src="https://skillicons.dev/icons?i=tailwind,css,sass,styledcomponents" 
+       alt=" tailwind, css, sass, styled-components" /> <br>
   </a>
   <a href="https://github.com/kevinCubas">
       <img src="https://skillicons.dev/icons?i=git,github,vscode" 
