@@ -25,7 +25,7 @@ Feel free to reach out to discuss potential opportunities. I'm always looking fo
   </a>
 </div>
 
-## 🚀 Skills
+## 🚀 main Stack
 <div>
   <a href="https://github.com/kevinCubas">
     <img alt="Kevin gif" src="https://cdn.discordapp.com/attachments/986395839897419776/986777975443828746/Kevin-gif.gif" height="150em" align="right"/>  
