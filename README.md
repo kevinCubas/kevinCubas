@@ -4,8 +4,6 @@ A Software Engineer focused on front-end development, with experience creating i
 
 I'm constantly seeking to evolve and learn, with a passion for studying and understanding how things work. As a computer science enthusiast, I actively contribute to open-source projects.
 
-In addition to my role as a software engineer, I'm involved in copywriting and serve as a moderator in an open-source community/company called Forja. Within the Forja dev community, I focus on contributing to projects, mentoring and empowering developers, as well as participating in the interview and recruitment process for internal projects.
-
 I'm bilingual:
 Portuguese - Native/fluent;
 English - Advanced (7 years of study and practice).
