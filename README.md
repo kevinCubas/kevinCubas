@@ -1,18 +1,14 @@
 # Hello World, I'm Kevin 👋
 
-A Software Engineer focused on front-end development, with experience creating innovative and high-impact web applications.
+I'm Front-end developer dedicated to building scalable and responsive interfaces, specializing in the Javascript ecosystem with a focus on React, Vue, Next, and Typescript. Experienced in developing multitenant solutions and complex integrations, such as chatbots and campaigns. Focus on performance optimization and UX, delivering end-to-end systems. Contributes to open-source projects and works with agile teams, leading technical initiatives to ensure high-quality deliveries. I also am a moderator of tech communities on Discord.
 
-I'm constantly seeking to evolve and learn, with a passion for studying and understanding how things work. As a computer science enthusiast, I actively contribute to open-source projects.
+Feel free to contact me to discuss potential opportunities. I am always looking for innovative and challenging projects where I can apply and improve my skills. I trust that my skills and experiences make me a great candidate for any front-end developer role.
 
-I'm bilingual:
-Portuguese - Native/fluent;
-English - Advanced (7 years of study and practice).
-
-- 💻 I'm currently specializing in NextJS and Typescript.
-- ❤️ Passions: art, STEM, games & nature;
-- ✨ Fun fact: I create original art pieces in acrylic paintings.
-
-Feel free to reach out to discuss potential opportunities. I'm always looking for innovative and challenging projects where I can apply and enhance my skills.
+TECHNOLOGIES
+Javascript, Typescript, React, Next.js, Vue, Vuex, Redux Toolkit, React-query (tanstack), React-router,
+Vuetify, HTML, CSS, SCSS, Tailwind, Styled-components, Radix, Git, GitHub, Gitlab, Webpack, Babel,
+Node, Express, Fastify, Prisma, Jest, testing-library, zod, vee-validate, Next-auth, Axios, Storybook, Vite,
+Angular, Material UI, React Native, JWT, Figma, Azure, Docker
 
 ## 🐱‍💻 Github Stats
 <div>
